@@ -1,0 +1,23 @@
+{
+  "name": "discordtourney",
+  "version": "1.0.0",
+  "description": "Een Discord-bot in ontwikkeling voor het beheren van toernooien zoals single elimination, double elimination en round-robin brackets. Perfect voor Yu-Gi-Oh, Pokémon, MTG en andere competitieve games!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Tafish-Qureshi/discordTourney.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Tafish-Qureshi/discordTourney/issues"
+  },
+  "homepage": "https://github.com/Tafish-Qureshi/discordTourney#readme",
+  "dependencies": {
+    "discord": "^0.8.2"
+  }
+}
